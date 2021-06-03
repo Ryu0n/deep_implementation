@@ -7,3 +7,5 @@
 6. DensNet
 7. Faster R-CNN
 8. YOLO
+9. RNN
+10. LSTM
