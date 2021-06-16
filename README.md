@@ -1,4 +1,6 @@
-# Deep_Implementation  
+# deep_implementation  
+
+implementation of deel learning models.  
 
 |Models|Paper|Implementation|
 |------|---|---|
@@ -18,5 +20,6 @@
 |YOLO|X|X|  
 |RetinaNet|X|X|  
 
+# References
 [Transformer, GPT, BERT]  
 https://paul-hyun.github.io/implement-paper/  
