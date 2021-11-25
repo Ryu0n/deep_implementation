@@ -2,23 +2,24 @@
 
 implementation of deel learning models.  
 
-|Models|Paper|Implementation|
-|------|---|---|
-|Convolution Neural Network|X|O|
-|Use Pretrained Models|X|O|
-|AlexNet|X|O|
-|VGGNet|X|O|
-|ResNet|X|O|
-|DensNet|X|X|
-|Faster R-CNN|X|X|
-|RNN|X|O|
-|LSTM (Long Short Term Memoory)|X|X|
-|GAN (Generative Adversarial Network)|X|X|
-|Transformer|X|X|
-|GPT|X|X|
-|BERT|X|X|  
-|YOLO|X|X|  
-|RetinaNet|X|X|  
+|Models|Implementation|
+|------|---|
+|Convolution Neural Network|O|
+|Use Pretrained Models|O|
+|AlexNet|O|
+|VGGNet|O|
+|ResNet|O|
+|DensNet|X|
+|Faster R-CNN|X|
+|RNN|O|
+|LSTM (Long Short Term Memoory)|X|
+|GAN (Generative Adversarial Network)|X|
+|Transformer|X|
+|GPT|X|
+|BERT|X|  
+|YOLO|X|  
+|RetinaNet|X|  
+|EfficientNet|X|  
 
 # References
 [Transformer, GPT, BERT]  
