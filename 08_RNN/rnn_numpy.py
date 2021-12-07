@@ -1,5 +1,3 @@
-import numpy as np
-
 """
 ht = tanh(Wx*x(t) + Wh*h(t-1) + b)
 
@@ -13,6 +11,8 @@ h(t-1) : (hidden_size, 1)
 
 b : (hidden_size, 1)
 """
+
+import numpy as np
 
 # sequence data : N x T x D
 time_steps = 10  # T
